@@ -1,1 +1,2 @@
-# Six Player Human, don't get angry simulation
+# Six Player Ludo simulation
+How long does it take to finish one game of Ludo with 6 players?
