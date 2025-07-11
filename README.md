@@ -1,2 +1,2 @@
-# Six Player Ludo simulation
+# Six Player Ludo Simulation
 How long does it take to finish one game of Ludo with 6 players?
